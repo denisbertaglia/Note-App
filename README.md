@@ -1,6 +1,9 @@
 # Aplicativo de Notas 
+<p align="center">
+<img src="https://github.com/denisbertaglia/Note-App/blob/a7c8eb4be6eb65aaf4a02d4e3473d379b2a8e17a/public/screen.jpg" alt="Screen">
+</p>
+Pequeno projeto de aplicativo de notas escrito em Vue 3 de armazana as notas no navegador.
 
-Pequeno projeto de aplicativo de notas escrito em Vue 3 de armazana as notas no navegador. 
 Desafio de [App Ideas Collection](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Notes-App.md).
 
 ## Configuração Recomendada da IDE
