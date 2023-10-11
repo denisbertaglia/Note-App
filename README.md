@@ -1,4 +1,4 @@
-# Aplicativo de Notas 
+# Aplicativo de Notas em Vue
 <p align="center">
 <img src="https://github.com/denisbertaglia/Note-App/blob/a7c8eb4be6eb65aaf4a02d4e3473d379b2a8e17a/public/screen.jpg" alt="Screen">
 </p>
