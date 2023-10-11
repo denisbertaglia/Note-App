@@ -1,0 +1,26 @@
+@import './base.css';
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+body {
+  display: flex;
+  place-items: start center;
+}
+
+@media (max-width: 479px) {
+  .screen {
+      width: 90vw;
+  }
+}
+
+@media (min-width: 480px) {
+  .screen {
+      width: 50vw;
+  }
+  #app {
+    padding: 2rem;
+  }
+}
